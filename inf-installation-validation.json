@@ -1,0 +1,49 @@
+{
+  "version": "1.0.0",
+  "schemes": 5,
+  "native_setupapi_used": true,
+  "registry_and_Windows_destination_redirected_for_isolation": true,
+  "only_fixture_edit": "reserved DIRID 10 and its placeholders replaced by user DIRID 32768; all installation sections/files/roles unchanged",
+  "actual_Explorer_context_menu_not_automated": true,
+  "active_system_cursors_unchanged": true,
+  "roles_copied_and_registered": 85,
+  "no_executable_hooks": true,
+  "does_not_claim_runtime_size_changes": true,
+  "records": [
+    {
+      "inf": "安装_GLM_32px.inf",
+      "sha256": "6c8b2e4fc945d0f97c2bb921b238288ba82de14f03bf6a089fecf63dea4c018a",
+      "actual_setupapi_DefaultInstall_succeeded": true,
+      "copied_files_and_registered_paths_verified": 17,
+      "scheme": "GLM AI 32px"
+    },
+    {
+      "inf": "安装_GLM_48px.inf",
+      "sha256": "165f86270d37ce8e4aaad01012e00426900efa0a6145a567931680e67876d5c9",
+      "actual_setupapi_DefaultInstall_succeeded": true,
+      "copied_files_and_registered_paths_verified": 17,
+      "scheme": "GLM AI 48px"
+    },
+    {
+      "inf": "安装_GLM_64px.inf",
+      "sha256": "90551bf2bb446c5b738f1e848373f4fd0e3d2797e7142fd0ae3291486a3aac64",
+      "actual_setupapi_DefaultInstall_succeeded": true,
+      "copied_files_and_registered_paths_verified": 17,
+      "scheme": "GLM AI 64px"
+    },
+    {
+      "inf": "安装_GLM_128px.inf",
+      "sha256": "ecddf5ba9d319c3247046080daa21a0b7f49f661bf496d0b0df883358449e155",
+      "actual_setupapi_DefaultInstall_succeeded": true,
+      "copied_files_and_registered_paths_verified": 17,
+      "scheme": "GLM AI 128px"
+    },
+    {
+      "inf": "安装_GLM_256px.inf",
+      "sha256": "3bc2f60e46038d2a83e63ff1968ecf70400d9bb4a56c4fe20ec7c0863d86bc91",
+      "actual_setupapi_DefaultInstall_succeeded": true,
+      "copied_files_and_registered_paths_verified": 17,
+      "scheme": "GLM AI 256px"
+    }
+  ]
+}

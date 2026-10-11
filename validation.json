@@ -1,0 +1,943 @@
+{
+  "cursor_files": 85,
+  "schemes": 5,
+  "role_count": 17,
+  "native_verified": true,
+  "records": [
+    {
+      "file": "cursors/glm/32/Arrow.ani",
+      "sha256": "1414b517c2f52bea996d6159ed027bf24a073759eaf85e0b8c3ef930a3711b78",
+      "hotspot": [
+        0,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/32/Help.ani",
+      "sha256": "bfd50050797473e9d02a30c8a6107e5007b206634b932b9eafd1680103e224fc",
+      "hotspot": [
+        0,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/32/AppStarting.ani",
+      "sha256": "2c40c979a7cd271352c929c54ac042364b5e583f2c870fbf298c02d5544d79a9",
+      "hotspot": [
+        0,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/32/Wait.ani",
+      "sha256": "f5202d263db49b2486285b4ab93b57921c145270cd7c308e354da3208a3283d9",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/32/Crosshair.ani",
+      "sha256": "4b57e54409a439e8279f0c11f0f27fef93dab82d098771f02830ebacf6c2f1c9",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/32/IBeam.ani",
+      "sha256": "0364aac15a338c82c370596fdd2950336afd0a0f1664f68acb169f368fb852a2",
+      "hotspot": [
+        2,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/32/NWPen.ani",
+      "sha256": "0d6dad45a977dce82106e281cc71323f7a78d7382f2d267ffb7806980345ae73",
+      "hotspot": [
+        1,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/32/No.ani",
+      "sha256": "8644264dd3884b7662f4e2268f912390486ea95a68869b2d4a0e5fd5cf8fc2e1",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/32/SizeNS.ani",
+      "sha256": "0a487aed119091c9ebab0bf9641bd1f8a7d20850acbac67b7c4059c0dceecacb",
+      "hotspot": [
+        2,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/32/SizeWE.ani",
+      "sha256": "0b40698818211bbbdff49a5299dcf92612403614fd01bc322a0bac4f9a7a542b",
+      "hotspot": [
+        4,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/32/SizeNWSE.ani",
+      "sha256": "cc6cbc8940a05475335cd030cc04fd3eb247846386ae1a2a3dbd6e9ff21ee1a0",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/32/SizeNESW.ani",
+      "sha256": "43f2ee3092373e3846b26be5d3c358a624d8cfa5c55ddf39a1030f77091c5d45",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/32/SizeAll.ani",
+      "sha256": "20480688da667bbb155f13ccb6dd89809788770232bbe3e2745eac3f1947822a",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/32/UpArrow.ani",
+      "sha256": "e9681f300e7e1844106abd6e649c1e7f89ce53179e66a74a2333d02a222c68dc",
+      "hotspot": [
+        4,
+        0
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/32/Hand.ani",
+      "sha256": "c93c2acc1130fd0a95564b51672397295d3b21d99fceb325943b76f524174a9e",
+      "hotspot": [
+        3,
+        0
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/32/Pin.ani",
+      "sha256": "a78f996ecb4e3cb1998206bf90075e1871de8ff85fcc4909e97e04e62708e218",
+      "hotspot": [
+        3,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/32/Person.ani",
+      "sha256": "da574c33f8444fe84f539a0826dd8db194123a5cbeaa8bd4de8d3fe90f62e66c",
+      "hotspot": [
+        4,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/48/Arrow.ani",
+      "sha256": "150f631806465f55e9a4de2527852935019515ad9de9399d2302ba25bad2593c",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/48/Help.ani",
+      "sha256": "c063be3a725c60fe1aa732d565da62740597d0e50f6ca53e6e675d31a82105d3",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/48/AppStarting.ani",
+      "sha256": "4eafc08ef95682266e6c33bbe4bd5bd2e3e13a0a63ec1fc640799f79ee7f570f",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/48/Wait.ani",
+      "sha256": "82e8a907f143d293656973f8a390589e45ade794cf299346d2816b904f9f5cb2",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/48/Crosshair.ani",
+      "sha256": "6654b053dc057c05b7ccf5c209a6a0d49141379d6c11f617b436a8a8579e45ba",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/48/IBeam.ani",
+      "sha256": "9eb58d8e6639dd6d1e3d4c47971b7130fd81f11253679ce860c94129fd4d64d9",
+      "hotspot": [
+        3,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/48/NWPen.ani",
+      "sha256": "1c31b5f81c5b58b000289e63ecd45fe3969f41c08078ea4d582173244f7be620",
+      "hotspot": [
+        1,
+        12
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/48/No.ani",
+      "sha256": "376104038e110f77b9f67b19307610248db4867a7cc9aeb9ad81f0b20e735560",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/48/SizeNS.ani",
+      "sha256": "832ddd3ebc1532b356cf09159ff9caf286d616022a7326754c3c3fef4ca6b9e9",
+      "hotspot": [
+        3,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/48/SizeWE.ani",
+      "sha256": "6027908df3d20e4b893199702bda1e5ee79d48bb179efb60e265b816419c4ff8",
+      "hotspot": [
+        6,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/48/SizeNWSE.ani",
+      "sha256": "c6432cd43a3be0364f5ae5756eb1f889ca2c2a453970add2af1e53916d2949fc",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/48/SizeNESW.ani",
+      "sha256": "e5503abd4dd0ca2505de5ea6b2429faeb836e24002d248e59d367e9f39d76b4e",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/48/SizeAll.ani",
+      "sha256": "56453e47890d652490e67870d27f4443763aa698f6f9c7892041b4beb0cbdf01",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/48/UpArrow.ani",
+      "sha256": "69b726eaaa20e3793f7f6406fcaccaadec407abd6dfbd69369529aecb3980367",
+      "hotspot": [
+        5,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/48/Hand.ani",
+      "sha256": "f86ebdb3ca29b8d5948d7da269c5f27eb472eff10e053cbf53ca9f87319b2588",
+      "hotspot": [
+        4,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/48/Pin.ani",
+      "sha256": "76482c78e22d26128c50b79d051fc96524416d9e42ef00f6510bc1cacd4dd501",
+      "hotspot": [
+        5,
+        12
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/48/Person.ani",
+      "sha256": "959afce74d3870ee1eeed6e84ae1980af095bcb91bc275ce316d66422b9b3962",
+      "hotspot": [
+        6,
+        3
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/64/Arrow.ani",
+      "sha256": "362caf45bcee2c66f68c1d451f817bc209f73f075c9167355b59e4c5ade63438",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/64/Help.ani",
+      "sha256": "074b66392f59300ecd947400befb3315d40f0fcaffc5b77fa338250519f7df43",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/64/AppStarting.ani",
+      "sha256": "7c31b106c8e347102cc3429e640131ccbf8b0f30c11821b6b75347c71047ccbb",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/64/Wait.ani",
+      "sha256": "bd6512aa4c4c61a17671e8d8f9e35a8f6529c5150efe1b22c223133f0578025d",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/64/Crosshair.ani",
+      "sha256": "2cee069a57e677113d7e2d7601e38a4609248944329f1826bd8129fd5e359cbf",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/64/IBeam.ani",
+      "sha256": "f0ae3a0a3a0738520a10a79fca9003fb71cdad6fffade0b69eed7a1428e9ffdf",
+      "hotspot": [
+        4,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/64/NWPen.ani",
+      "sha256": "8188be6442df5240db6c0c1b77da29a2611f822686a798acd08673ac15225d60",
+      "hotspot": [
+        1,
+        16
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/64/No.ani",
+      "sha256": "dbe66e6f1fe2063c611c7ef93fad549ca8e80e8856802e60a333ebd44917ccfa",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/64/SizeNS.ani",
+      "sha256": "e76f0430ebdd78b5781aeec4b0b5ffa583e955c00c957d1e22ae429e7a9ae567",
+      "hotspot": [
+        3,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/64/SizeWE.ani",
+      "sha256": "848e23ecc8f1d212fe47a5e760464f16ed814919a34ef8ae61e2c24c6edcadf9",
+      "hotspot": [
+        8,
+        3
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/64/SizeNWSE.ani",
+      "sha256": "7106cb01c4e9ac128e9a8a9610bdb1816c6c9f3ec57180832225fa8908ce25b9",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/64/SizeNESW.ani",
+      "sha256": "9f30e929b53102b1f1d011df141e231eab1f375fde58c6972551058e9d9432e4",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/64/SizeAll.ani",
+      "sha256": "f2e75739c6cdb19496336e7252b893e96ffe45a11f8ec3116c7f3acbadac8546",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/64/UpArrow.ani",
+      "sha256": "2a759a6b718861fdc2bf7064d74106cba9bfb53cf23f182cfd4602dc9d7b6c3d",
+      "hotspot": [
+        7,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/64/Hand.ani",
+      "sha256": "6c6bbe555804b5ab515b67e74f39b96a43b9d470d2b4fa8d2084aa0b72e2c045",
+      "hotspot": [
+        5,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/64/Pin.ani",
+      "sha256": "239fcbf6bf1cd8a9f7cc7df4867949b0ad8b5bafbe0f79f73fe3a0207004ec16",
+      "hotspot": [
+        7,
+        16
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/64/Person.ani",
+      "sha256": "e8d60488279642afa5c5b47ffcaa321d74a3b4fe6a6ac2d355dde8b13f7dba33",
+      "hotspot": [
+        8,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/128/Arrow.ani",
+      "sha256": "4b216a159524119c3ae89973e9e282c0482765df13504cf95c1541863054c26f",
+      "hotspot": [
+        2,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/128/Help.ani",
+      "sha256": "97261eacafe6603fff44f630b1e5e4cb15f0dc07b635749608dfe7e43436335e",
+      "hotspot": [
+        2,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/128/AppStarting.ani",
+      "sha256": "7324a001ffe16cff1475f8df71cd30f41e1b73dbae4a75fcadcb9cf4a821f2f9",
+      "hotspot": [
+        2,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/128/Wait.ani",
+      "sha256": "10fd93008bd7f304d7f219d28ef4ff0473b41fc0fdb9ac8e2a6c9ffb502ffcc7",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/128/Crosshair.ani",
+      "sha256": "87cd0c0b4e4fbfbe89f8938ed62b044a0451a8d51e25ffc6c7c327fcb209085f",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/128/IBeam.ani",
+      "sha256": "01ddd29093d5486eedd40cf98f77b4b5d63e45b9a143eb1f16532f15aaec243a",
+      "hotspot": [
+        8,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/128/NWPen.ani",
+      "sha256": "b8001ecdac20844e81921ae13b5e066e6d2a6e9c28b1532e958bc4772d123a08",
+      "hotspot": [
+        2,
+        32
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/128/No.ani",
+      "sha256": "a065e38862638660b39c2d258e51ec25d6749ade949b8ef2558172712cb27f85",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/128/SizeNS.ani",
+      "sha256": "d9abaa09a69ba3396bccdb6d9de9166ed1c7e604948af1dba2868b3821c80e14",
+      "hotspot": [
+        7,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/128/SizeWE.ani",
+      "sha256": "e81fa318f14803e83e9619576672090bedd8d79f1f80f7aef9fe1de117fde188",
+      "hotspot": [
+        17,
+        7
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/128/SizeNWSE.ani",
+      "sha256": "de39342569a3fe1706c095392c18405bbfbb0ea33c7306c550e84351e37b2083",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/128/SizeNESW.ani",
+      "sha256": "6260cc066ff873a77c2d794c3789046dd833d3121c6940bae59f65526bb2ba71",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/128/SizeAll.ani",
+      "sha256": "b4bb11b8e4520b279d3eedb54d9642aa14687abb93f07a36d52eea11dfb732a8",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/128/UpArrow.ani",
+      "sha256": "6773c1332cc4e0103e921e66b138909b147da4d200d33257f1c26d62951f4ef5",
+      "hotspot": [
+        14,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/128/Hand.ani",
+      "sha256": "b35ea8a49bb882067982503eb6c89e4f2f4914bf46e04ccf2c33699716bfadf1",
+      "hotspot": [
+        10,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/128/Pin.ani",
+      "sha256": "cc65bd838568890ba6d3ccbec210e71dca3403d4f96486c8cf6f197a7304c20a",
+      "hotspot": [
+        13,
+        32
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/128/Person.ani",
+      "sha256": "0b762431b9edc49ead98742d0c067fca7abd3b5a34aef9740120452a9d23ac5f",
+      "hotspot": [
+        15,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/256/Arrow.ani",
+      "sha256": "f61156595e43102afd63e97d14967cb4dd8b05332685e8109c68499a520d558d",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/256/Help.ani",
+      "sha256": "7fa370a841ad881dbd3bc9f5d48f8f520982953c30f8d33bfdd50d2dc47122b1",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/256/AppStarting.ani",
+      "sha256": "9af04b153d1db6bdd6a2d4b2c52b6d09da5dcc04042d465191f9c55824bf325b",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/256/Wait.ani",
+      "sha256": "74416062ef345fac8489e48789a0406fdbfbe5d404e703f2188078c297c5cd20",
+      "hotspot": [
+        34,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/256/Crosshair.ani",
+      "sha256": "d52b66e93a977282e15a412f64f11203ae111a527599537f8a1720f47e82d4bc",
+      "hotspot": [
+        34,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/256/IBeam.ani",
+      "sha256": "28680b4e1a0dbaf845b2bb3853da6efd680f173e502f99cd283184e02530b4ed",
+      "hotspot": [
+        17,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/256/NWPen.ani",
+      "sha256": "ea8f1ebd685ac6f8c798c47cb72fcb1d8a156e077a93e426e88b396757a22d7d",
+      "hotspot": [
+        4,
+        63
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/256/No.ani",
+      "sha256": "87753e1d55998d7184e554f65c771495665584e1a24e8d7681a8495763551766",
+      "hotspot": [
+        34,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/256/SizeNS.ani",
+      "sha256": "f49e999d117f1de90f32021c8d24b3d67dd558efe35eda3559bb5811a211f57f",
+      "hotspot": [
+        13,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/256/SizeWE.ani",
+      "sha256": "e5bc7facc19199b4d326bd4ead0254613718731c57bb35a38b65f00d44bc6193",
+      "hotspot": [
+        34,
+        13
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/256/SizeNWSE.ani",
+      "sha256": "6be31f667475de186a1886086a3d127565c529fe295c71a287b6af50692e79f8",
+      "hotspot": [
+        34,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/256/SizeNESW.ani",
+      "sha256": "39ef9c77e168535346b5f06fb89d68369e0b61cf2c45b6d8e43125d22c671f53",
+      "hotspot": [
+        34,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/256/SizeAll.ani",
+      "sha256": "83187a1c36ad7d49fbeaec03f47811a77a0630385b03fd6379ef014e2d01e230",
+      "hotspot": [
+        34,
+        33
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/256/UpArrow.ani",
+      "sha256": "3803ea0b66c7223e5e7f2bd10d0101371dec618ce239faa1273314e77743bdb2",
+      "hotspot": [
+        29,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/256/Hand.ani",
+      "sha256": "d91b548bf7b6c6df32b5f93206caf51ae79ba6d42d59277764ac6c88c5a17c38",
+      "hotspot": [
+        21,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/256/Pin.ani",
+      "sha256": "efa47f1a6d9daed8a72948308cbfe5c429de5f4261bb5b66e1424552a7e5a4a9",
+      "hotspot": [
+        26,
+        64
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/glm/256/Person.ani",
+      "sha256": "ce72a357167287179943117382abe7a96ce5ae04d7cbc22f2ff0a2804cf1f805",
+      "hotspot": [
+        31,
+        15
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    }
+  ]
+}

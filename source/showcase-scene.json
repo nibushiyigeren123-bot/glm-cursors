@@ -1,0 +1,75 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 24,
+  "duration": 21,
+  "scenes": [
+    {
+      "kind": "intro",
+      "seconds": 3,
+      "caption": "GLM 动态指针 · 17 状态 × 五档尺寸",
+      "start": 0,
+      "end": 3
+    },
+    {
+      "kind": "states",
+      "character": "glm",
+      "display": "GLM",
+      "seconds": 10,
+      "caption": "GLM · 全部 17 状态；绘制姿态加八相位二维微动",
+      "start": 3,
+      "end": 13
+    },
+    {
+      "kind": "sizes",
+      "character": "glm",
+      "display": "GLM",
+      "seconds": 5,
+      "caption": "GLM · 实际像素 32 / 48 / 64 / 128 / 256 px，热点在功能符号上",
+      "start": 13,
+      "end": 18
+    },
+    {
+      "kind": "outro",
+      "seconds": 3,
+      "caption": "社区分享 · 非商业使用 · 原作者与音乐署名见仓库",
+      "start": 18,
+      "end": 21
+    }
+  ],
+  "profile": {
+    "repository": "glm-cursors",
+    "title": "GLM",
+    "namespace": "GLMCursors",
+    "accent": "#7193af",
+    "version": "1.0.0",
+    "default_character": "glm",
+    "characters": [
+      {
+        "id": "glm",
+        "display": "GLM",
+        "reference_page": 6
+      }
+    ]
+  },
+  "palette": {
+    "repository": "glm-cursors",
+    "accent": "#2B3A67",
+    "ink": "#14161C",
+    "muted": "#6B7280",
+    "bg_start": "#F5F6F8",
+    "bg_end": "#DDE1E8",
+    "title": "GLM 狐耳光标库",
+    "subtitle": "黑狐耳 · 白黑配色",
+    "quote": "黑狐耳搭一身白黑，手边放一本小 Z 书。",
+    "characters": [
+      {
+        "id": "glm",
+        "label": "GLM",
+        "traits": "黑发黑狐耳尾，白黑服装，小 Z 书"
+      }
+    ]
+  },
+  "bgm_sha256": "4bc699d0c98e1f150b1f04f576c12b0b963dea638d34b845b087fea35e424936",
+  "music": "MusMus / watson - 放課後アフタースクール"
+}

@@ -1,0 +1,15 @@
+{
+  "repository": "glm-cursors",
+  "title": "GLM",
+  "namespace": "GLMCursors",
+  "accent": "#7193af",
+  "version": "1.0.0",
+  "default_character": "glm",
+  "characters": [
+    {
+      "id": "glm",
+      "display": "GLM",
+      "reference_page": 6
+    }
+  ]
+}
