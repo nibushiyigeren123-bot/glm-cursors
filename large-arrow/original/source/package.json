@@ -1,0 +1,19 @@
+{
+  "repository": "glm-cursors",
+  "title": "GLM",
+  "namespace": "GLMCursors",
+  "accent": "#7193af",
+  "version": "1.1.0",
+  "default_character": "glm",
+  "characters": [
+    {
+      "id": "glm",
+      "display": "GLM",
+      "reference_page": 6
+    }
+  ],
+  "keeper_runtime_version": "1.1.0",
+  "edition": "original",
+  "loader": "CreateIconFromResourceEx for ANI",
+  "installation_slot_version": "1.0.0"
+}

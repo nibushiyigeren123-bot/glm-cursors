@@ -1,0 +1,14 @@
+{
+  "character": "glm",
+  "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a12d0c-8375-79f0-ace9-afa1b234d5a3\\exec-7048368d-4d3f-44e1-9d25-47af308c6340.png",
+  "target": "E:\\cladue缓存\\AI全家动态指针_20261012\\characters\\glm\\poses-v1.png",
+  "sha256": "5ab8fda0aa1eb7397137209c15b0c59014bfc98f9407a34dfde7fb21907af8dc",
+  "size": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "method": "built-in image_gen",
+  "seed": "not exposed by built-in tool",
+  "original_preserved": true
+}
