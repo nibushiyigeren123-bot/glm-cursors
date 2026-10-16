@@ -12,247 +12,10 @@
     "frames": 8,
     "jiffies": 12,
     "frame_ms": 200.0,
-    "action": "idle"
-  },
-  {
-    "character": "glm",
-    "size": 32,
-    "role": "Help",
-    "label": "帮助选择",
-    "file": "cursors/glm/32/Help.ani",
-    "hotspot": [
-      0,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "glm",
-    "size": 32,
-    "role": "AppStarting",
-    "label": "后台运行",
-    "file": "cursors/glm/32/AppStarting.ani",
-    "hotspot": [
-      0,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "glm",
-    "size": 32,
-    "role": "Wait",
-    "label": "忙碌",
-    "file": "cursors/glm/32/Wait.ani",
-    "hotspot": [
-      4,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "glm",
-    "size": 32,
-    "role": "Crosshair",
-    "label": "精确选择",
-    "file": "cursors/glm/32/Crosshair.ani",
-    "hotspot": [
-      4,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "glm",
-    "size": 32,
-    "role": "IBeam",
-    "label": "文本选择",
-    "file": "cursors/glm/32/IBeam.ani",
-    "hotspot": [
-      2,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "glm",
-    "size": 32,
-    "role": "NWPen",
-    "label": "手写",
-    "file": "cursors/glm/32/NWPen.ani",
-    "hotspot": [
-      1,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "glm",
-    "size": 32,
-    "role": "No",
-    "label": "不可用",
-    "file": "cursors/glm/32/No.ani",
-    "hotspot": [
-      4,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "failed"
-  },
-  {
-    "character": "glm",
-    "size": 32,
-    "role": "SizeNS",
-    "label": "垂直调整",
-    "file": "cursors/glm/32/SizeNS.ani",
-    "hotspot": [
-      2,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "glm",
-    "size": 32,
-    "role": "SizeWE",
-    "label": "水平调整",
-    "file": "cursors/glm/32/SizeWE.ani",
-    "hotspot": [
-      4,
-      2
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "glm",
-    "size": 32,
-    "role": "SizeNWSE",
-    "label": "对角调整1",
-    "file": "cursors/glm/32/SizeNWSE.ani",
-    "hotspot": [
-      4,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "glm",
-    "size": 32,
-    "role": "SizeNESW",
-    "label": "对角调整2",
-    "file": "cursors/glm/32/SizeNESW.ani",
-    "hotspot": [
-      4,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-left"
-  },
-  {
-    "character": "glm",
-    "size": 32,
-    "role": "SizeAll",
-    "label": "移动",
-    "file": "cursors/glm/32/SizeAll.ani",
-    "hotspot": [
-      4,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "glm",
-    "size": 32,
-    "role": "UpArrow",
-    "label": "候选选择",
-    "file": "cursors/glm/32/UpArrow.ani",
-    "hotspot": [
-      4,
-      0
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "glm",
-    "size": 32,
-    "role": "Hand",
-    "label": "链接选择",
-    "file": "cursors/glm/32/Hand.ani",
-    "hotspot": [
-      3,
-      0
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
-  },
-  {
-    "character": "glm",
-    "size": 32,
-    "role": "Pin",
-    "label": "位置选择",
-    "file": "cursors/glm/32/Pin.ani",
-    "hotspot": [
-      3,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "glm",
-    "size": 32,
-    "role": "Person",
-    "label": "人员选择",
-    "file": "cursors/glm/32/Person.ani",
-    "hotspot": [
-      4,
-      2
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
+    "action": "idle",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "a665d067d435390159a681594f6c8c46f5847e08e333e04c59c6ee06e5ce7bac"
   },
   {
     "character": "glm",
@@ -267,247 +30,10 @@
     "frames": 8,
     "jiffies": 12,
     "frame_ms": 200.0,
-    "action": "idle"
-  },
-  {
-    "character": "glm",
-    "size": 48,
-    "role": "Help",
-    "label": "帮助选择",
-    "file": "cursors/glm/48/Help.ani",
-    "hotspot": [
-      1,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "glm",
-    "size": 48,
-    "role": "AppStarting",
-    "label": "后台运行",
-    "file": "cursors/glm/48/AppStarting.ani",
-    "hotspot": [
-      1,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "glm",
-    "size": 48,
-    "role": "Wait",
-    "label": "忙碌",
-    "file": "cursors/glm/48/Wait.ani",
-    "hotspot": [
-      6,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "glm",
-    "size": 48,
-    "role": "Crosshair",
-    "label": "精确选择",
-    "file": "cursors/glm/48/Crosshair.ani",
-    "hotspot": [
-      6,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "glm",
-    "size": 48,
-    "role": "IBeam",
-    "label": "文本选择",
-    "file": "cursors/glm/48/IBeam.ani",
-    "hotspot": [
-      3,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "glm",
-    "size": 48,
-    "role": "NWPen",
-    "label": "手写",
-    "file": "cursors/glm/48/NWPen.ani",
-    "hotspot": [
-      1,
-      12
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "glm",
-    "size": 48,
-    "role": "No",
-    "label": "不可用",
-    "file": "cursors/glm/48/No.ani",
-    "hotspot": [
-      6,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "failed"
-  },
-  {
-    "character": "glm",
-    "size": 48,
-    "role": "SizeNS",
-    "label": "垂直调整",
-    "file": "cursors/glm/48/SizeNS.ani",
-    "hotspot": [
-      3,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "glm",
-    "size": 48,
-    "role": "SizeWE",
-    "label": "水平调整",
-    "file": "cursors/glm/48/SizeWE.ani",
-    "hotspot": [
-      6,
-      2
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "glm",
-    "size": 48,
-    "role": "SizeNWSE",
-    "label": "对角调整1",
-    "file": "cursors/glm/48/SizeNWSE.ani",
-    "hotspot": [
-      6,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "glm",
-    "size": 48,
-    "role": "SizeNESW",
-    "label": "对角调整2",
-    "file": "cursors/glm/48/SizeNESW.ani",
-    "hotspot": [
-      6,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-left"
-  },
-  {
-    "character": "glm",
-    "size": 48,
-    "role": "SizeAll",
-    "label": "移动",
-    "file": "cursors/glm/48/SizeAll.ani",
-    "hotspot": [
-      6,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "glm",
-    "size": 48,
-    "role": "UpArrow",
-    "label": "候选选择",
-    "file": "cursors/glm/48/UpArrow.ani",
-    "hotspot": [
-      5,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "glm",
-    "size": 48,
-    "role": "Hand",
-    "label": "链接选择",
-    "file": "cursors/glm/48/Hand.ani",
-    "hotspot": [
-      4,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
-  },
-  {
-    "character": "glm",
-    "size": 48,
-    "role": "Pin",
-    "label": "位置选择",
-    "file": "cursors/glm/48/Pin.ani",
-    "hotspot": [
-      5,
-      12
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "glm",
-    "size": 48,
-    "role": "Person",
-    "label": "人员选择",
-    "file": "cursors/glm/48/Person.ani",
-    "hotspot": [
-      6,
-      3
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
+    "action": "idle",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "2236e9307ee798f262684115e40157e9991a1f58bc2d52a0bfde3158639889b6"
   },
   {
     "character": "glm",
@@ -522,247 +48,28 @@
     "frames": 8,
     "jiffies": 12,
     "frame_ms": 200.0,
-    "action": "idle"
+    "action": "idle",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "a5f4493c269881525bf4952667be47fb50a9d1fd5c8300119508923109129eee"
   },
   {
     "character": "glm",
-    "size": 64,
-    "role": "Help",
-    "label": "帮助选择",
-    "file": "cursors/glm/64/Help.ani",
+    "size": 96,
+    "role": "Arrow",
+    "label": "正常选择",
+    "file": "cursors/glm/96/Arrow.ani",
     "hotspot": [
       1,
-      1
+      2
     ],
     "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "glm",
-    "size": 64,
-    "role": "AppStarting",
-    "label": "后台运行",
-    "file": "cursors/glm/64/AppStarting.ani",
-    "hotspot": [
-      1,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "glm",
-    "size": 64,
-    "role": "Wait",
-    "label": "忙碌",
-    "file": "cursors/glm/64/Wait.ani",
-    "hotspot": [
-      8,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "glm",
-    "size": 64,
-    "role": "Crosshair",
-    "label": "精确选择",
-    "file": "cursors/glm/64/Crosshair.ani",
-    "hotspot": [
-      8,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "glm",
-    "size": 64,
-    "role": "IBeam",
-    "label": "文本选择",
-    "file": "cursors/glm/64/IBeam.ani",
-    "hotspot": [
-      4,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "glm",
-    "size": 64,
-    "role": "NWPen",
-    "label": "手写",
-    "file": "cursors/glm/64/NWPen.ani",
-    "hotspot": [
-      1,
-      16
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "glm",
-    "size": 64,
-    "role": "No",
-    "label": "不可用",
-    "file": "cursors/glm/64/No.ani",
-    "hotspot": [
-      8,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "failed"
-  },
-  {
-    "character": "glm",
-    "size": 64,
-    "role": "SizeNS",
-    "label": "垂直调整",
-    "file": "cursors/glm/64/SizeNS.ani",
-    "hotspot": [
-      3,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "glm",
-    "size": 64,
-    "role": "SizeWE",
-    "label": "水平调整",
-    "file": "cursors/glm/64/SizeWE.ani",
-    "hotspot": [
-      8,
-      3
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "glm",
-    "size": 64,
-    "role": "SizeNWSE",
-    "label": "对角调整1",
-    "file": "cursors/glm/64/SizeNWSE.ani",
-    "hotspot": [
-      8,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "glm",
-    "size": 64,
-    "role": "SizeNESW",
-    "label": "对角调整2",
-    "file": "cursors/glm/64/SizeNESW.ani",
-    "hotspot": [
-      8,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-left"
-  },
-  {
-    "character": "glm",
-    "size": 64,
-    "role": "SizeAll",
-    "label": "移动",
-    "file": "cursors/glm/64/SizeAll.ani",
-    "hotspot": [
-      8,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "glm",
-    "size": 64,
-    "role": "UpArrow",
-    "label": "候选选择",
-    "file": "cursors/glm/64/UpArrow.ani",
-    "hotspot": [
-      7,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "glm",
-    "size": 64,
-    "role": "Hand",
-    "label": "链接选择",
-    "file": "cursors/glm/64/Hand.ani",
-    "hotspot": [
-      5,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
-  },
-  {
-    "character": "glm",
-    "size": 64,
-    "role": "Pin",
-    "label": "位置选择",
-    "file": "cursors/glm/64/Pin.ani",
-    "hotspot": [
-      7,
-      16
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "glm",
-    "size": 64,
-    "role": "Person",
-    "label": "人员选择",
-    "file": "cursors/glm/64/Person.ani",
-    "hotspot": [
-      8,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
+    "jiffies": 12,
+    "frame_ms": 200.0,
+    "action": "idle",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "303a1a06e7b2fbdb940748d29c49ca759a4f5d5529fd61a0f7d983165d77337a"
   },
   {
     "character": "glm",
@@ -777,247 +84,10 @@
     "frames": 8,
     "jiffies": 12,
     "frame_ms": 200.0,
-    "action": "idle"
-  },
-  {
-    "character": "glm",
-    "size": 128,
-    "role": "Help",
-    "label": "帮助选择",
-    "file": "cursors/glm/128/Help.ani",
-    "hotspot": [
-      2,
-      2
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "glm",
-    "size": 128,
-    "role": "AppStarting",
-    "label": "后台运行",
-    "file": "cursors/glm/128/AppStarting.ani",
-    "hotspot": [
-      2,
-      2
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "glm",
-    "size": 128,
-    "role": "Wait",
-    "label": "忙碌",
-    "file": "cursors/glm/128/Wait.ani",
-    "hotspot": [
-      17,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "glm",
-    "size": 128,
-    "role": "Crosshair",
-    "label": "精确选择",
-    "file": "cursors/glm/128/Crosshair.ani",
-    "hotspot": [
-      17,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "glm",
-    "size": 128,
-    "role": "IBeam",
-    "label": "文本选择",
-    "file": "cursors/glm/128/IBeam.ani",
-    "hotspot": [
-      8,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "glm",
-    "size": 128,
-    "role": "NWPen",
-    "label": "手写",
-    "file": "cursors/glm/128/NWPen.ani",
-    "hotspot": [
-      2,
-      32
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "glm",
-    "size": 128,
-    "role": "No",
-    "label": "不可用",
-    "file": "cursors/glm/128/No.ani",
-    "hotspot": [
-      17,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "failed"
-  },
-  {
-    "character": "glm",
-    "size": 128,
-    "role": "SizeNS",
-    "label": "垂直调整",
-    "file": "cursors/glm/128/SizeNS.ani",
-    "hotspot": [
-      7,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "glm",
-    "size": 128,
-    "role": "SizeWE",
-    "label": "水平调整",
-    "file": "cursors/glm/128/SizeWE.ani",
-    "hotspot": [
-      17,
-      7
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "glm",
-    "size": 128,
-    "role": "SizeNWSE",
-    "label": "对角调整1",
-    "file": "cursors/glm/128/SizeNWSE.ani",
-    "hotspot": [
-      17,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "glm",
-    "size": 128,
-    "role": "SizeNESW",
-    "label": "对角调整2",
-    "file": "cursors/glm/128/SizeNESW.ani",
-    "hotspot": [
-      17,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-left"
-  },
-  {
-    "character": "glm",
-    "size": 128,
-    "role": "SizeAll",
-    "label": "移动",
-    "file": "cursors/glm/128/SizeAll.ani",
-    "hotspot": [
-      17,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "glm",
-    "size": 128,
-    "role": "UpArrow",
-    "label": "候选选择",
-    "file": "cursors/glm/128/UpArrow.ani",
-    "hotspot": [
-      14,
-      2
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "glm",
-    "size": 128,
-    "role": "Hand",
-    "label": "链接选择",
-    "file": "cursors/glm/128/Hand.ani",
-    "hotspot": [
-      10,
-      2
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
-  },
-  {
-    "character": "glm",
-    "size": 128,
-    "role": "Pin",
-    "label": "位置选择",
-    "file": "cursors/glm/128/Pin.ani",
-    "hotspot": [
-      13,
-      32
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "glm",
-    "size": 128,
-    "role": "Person",
-    "label": "人员选择",
-    "file": "cursors/glm/128/Person.ani",
-    "hotspot": [
-      15,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
+    "action": "idle",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "5c2231101184c19d10f02a8ceb83ae2c6e31c9214c8deac9ebe7bc268a135388"
   },
   {
     "character": "glm",
@@ -1032,7 +102,100 @@
     "frames": 8,
     "jiffies": 12,
     "frame_ms": 200.0,
-    "action": "idle"
+    "action": "idle",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "3582ce79716b0bce76bdb7543a2e6b27573a9f865b1d656defd2b324730d4743"
+  },
+  {
+    "character": "glm",
+    "size": 32,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/glm/32/Help.ani",
+    "hotspot": [
+      0,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "38ee8ffb3aafe89972fa074bd03e095ad0075612a95d33df5af98d672c694056"
+  },
+  {
+    "character": "glm",
+    "size": 48,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/glm/48/Help.ani",
+    "hotspot": [
+      1,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "a2cf52a854884bb711c6bdaba185bf4f8aa0a181a61802f24687dd11492f2e7a"
+  },
+  {
+    "character": "glm",
+    "size": 64,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/glm/64/Help.ani",
+    "hotspot": [
+      1,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "1c7c1c5d4066738068913bcd7495e6c208002b25308e4567b267593fe3d14261"
+  },
+  {
+    "character": "glm",
+    "size": 96,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/glm/96/Help.ani",
+    "hotspot": [
+      1,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "e1a451066cc9b354523eea41d1a951426a8fe1e22d4573766d9e0025d66946d2"
+  },
+  {
+    "character": "glm",
+    "size": 128,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/glm/128/Help.ani",
+    "hotspot": [
+      2,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "8e2285603926dfc8b116c79b8e92def53e448b01adb23b49351c9625ecaf6394"
   },
   {
     "character": "glm",
@@ -1047,7 +210,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "review"
+    "action": "review",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "89bc6af478b3e8ef370fbf914f1609c4746436e7ba8f2185e4b73d5d130895f3"
+  },
+  {
+    "character": "glm",
+    "size": 32,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/glm/32/AppStarting.ani",
+    "hotspot": [
+      0,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "09f7ac19a96b08f7b47e744ce3dfb935b4142f52a03cf913c76827ef2836528f"
+  },
+  {
+    "character": "glm",
+    "size": 48,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/glm/48/AppStarting.ani",
+    "hotspot": [
+      1,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "267e68b903702e04f1ed1ae2725ac6e09f5709fe05f6bf23336604bfb2873faa"
+  },
+  {
+    "character": "glm",
+    "size": 64,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/glm/64/AppStarting.ani",
+    "hotspot": [
+      1,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "78621f847cd8c117e979c8650609bb828c4c7b5b3d0172f3c8633c13fe144bcb"
+  },
+  {
+    "character": "glm",
+    "size": 96,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/glm/96/AppStarting.ani",
+    "hotspot": [
+      1,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "22217a9016109d0e01ea824cede498a9d69c433cf467ddd28b55518addf6b157"
+  },
+  {
+    "character": "glm",
+    "size": 128,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/glm/128/AppStarting.ani",
+    "hotspot": [
+      2,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "ace10cd371f611905bd4dafaef3182ea59f091844988295abb31e3644fb0ed88"
   },
   {
     "character": "glm",
@@ -1062,7 +318,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "waiting"
+    "action": "waiting",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "b13bd24157f9b851afc4bcd66ea19fd19653feb8bdc4991224d10242e3bd28cf"
+  },
+  {
+    "character": "glm",
+    "size": 32,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/glm/32/Wait.ani",
+    "hotspot": [
+      4,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "dfc00281c42f25ba8a9695f61c491d6741569e6f8ac1da5df99e92a7e50039dd"
+  },
+  {
+    "character": "glm",
+    "size": 48,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/glm/48/Wait.ani",
+    "hotspot": [
+      6,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "de305277779613e267ea84b65f5d325cd82337fcdde1b59d6d89a794ab3066e7"
+  },
+  {
+    "character": "glm",
+    "size": 64,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/glm/64/Wait.ani",
+    "hotspot": [
+      8,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "aa70d0c363c95760a44ad5874a1632749d90ba544b3ea9d6ba23d4adb966cebd"
+  },
+  {
+    "character": "glm",
+    "size": 96,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/glm/96/Wait.ani",
+    "hotspot": [
+      13,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "2b5a9422e68a2306a77e7d9d89065d8dba3eba06da4912a34f0d3f1f8cc775c9"
+  },
+  {
+    "character": "glm",
+    "size": 128,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/glm/128/Wait.ani",
+    "hotspot": [
+      17,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "b3167a15c29aee119148915f2198c818a79770f625d43d0acee01c21b9c2f1be"
   },
   {
     "character": "glm",
@@ -1077,7 +426,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "working"
+    "action": "working",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "e6f2da4f8d789059ea3b3f568b9a97f91613e82bd8b7488a53e7c1b8c9fc67bd"
+  },
+  {
+    "character": "glm",
+    "size": 32,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/glm/32/Crosshair.ani",
+    "hotspot": [
+      4,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "6e5b27210814e97c973a6c8f04716fafdfb24c518c4f543012bf98d8d324182f"
+  },
+  {
+    "character": "glm",
+    "size": 48,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/glm/48/Crosshair.ani",
+    "hotspot": [
+      6,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "18a82164f2c4321ce5faba8c360b82a81f5284ae45208e80905a08a668451124"
+  },
+  {
+    "character": "glm",
+    "size": 64,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/glm/64/Crosshair.ani",
+    "hotspot": [
+      8,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "637274cbe5e5bc487232b181c1d96922ea0323038ec0674c8e972c7be02d21dd"
+  },
+  {
+    "character": "glm",
+    "size": 96,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/glm/96/Crosshair.ani",
+    "hotspot": [
+      13,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "1c16bd243403b746ed34e6fb4a346a910e1679005bef3a1bbf60d558cf2006f4"
+  },
+  {
+    "character": "glm",
+    "size": 128,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/glm/128/Crosshair.ani",
+    "hotspot": [
+      17,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "303aada489f9ed6054d0f8ffba19875ed721b09492dbd75a0be4e4c8a7317f4c"
   },
   {
     "character": "glm",
@@ -1092,7 +534,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "review"
+    "action": "review",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "491995bbb5af26b85c729d3baabeeddd49299683602b43378535dfe533d38f02"
+  },
+  {
+    "character": "glm",
+    "size": 32,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/glm/32/IBeam.ani",
+    "hotspot": [
+      2,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "244af27aba7345edf32324ff3e3b83e43620fc6e4604928c8c6903c9acd0120b"
+  },
+  {
+    "character": "glm",
+    "size": 48,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/glm/48/IBeam.ani",
+    "hotspot": [
+      3,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "bc8fe253f96f476904a06076787f284fe572e85a28d1841da2bd40d965ed36db"
+  },
+  {
+    "character": "glm",
+    "size": 64,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/glm/64/IBeam.ani",
+    "hotspot": [
+      4,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "ad47c4ed21fa8635f0e49c1f4f5c921dc9a315de9582623539cd0abcc6996839"
+  },
+  {
+    "character": "glm",
+    "size": 96,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/glm/96/IBeam.ani",
+    "hotspot": [
+      6,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "16b4187669f8bb45b086f3adf60e9563d57559b30a5702e1e057ac76bafc3211"
+  },
+  {
+    "character": "glm",
+    "size": 128,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/glm/128/IBeam.ani",
+    "hotspot": [
+      8,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "eb2c711400bdc56c4a7f40213e389ec2840b434d89b61b07f11fb54080e60f18"
   },
   {
     "character": "glm",
@@ -1107,7 +642,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "working"
+    "action": "working",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "06827cda7224196c09b76f363ba7e72a897af243d0456364c891b8ba655083d9"
+  },
+  {
+    "character": "glm",
+    "size": 32,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/glm/32/NWPen.ani",
+    "hotspot": [
+      1,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "bff0d3077d4c1359a03acd72307c3eb372058917ac5c19076250197e3361da17"
+  },
+  {
+    "character": "glm",
+    "size": 48,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/glm/48/NWPen.ani",
+    "hotspot": [
+      1,
+      12
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "a80818a52b06a2f3eeb037dcede1751d3054ab6b0d44001faaadb8b813ecc736"
+  },
+  {
+    "character": "glm",
+    "size": 64,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/glm/64/NWPen.ani",
+    "hotspot": [
+      1,
+      16
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "560b2a42aec1cf1e49fed4c088628c979ce004beffaa2260834ce9c18c569023"
+  },
+  {
+    "character": "glm",
+    "size": 96,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/glm/96/NWPen.ani",
+    "hotspot": [
+      2,
+      24
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "9673f9a0010dd3eaae28926eee6b787405da7e01f4e920a474d44ce7187eb3af"
+  },
+  {
+    "character": "glm",
+    "size": 128,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/glm/128/NWPen.ani",
+    "hotspot": [
+      2,
+      32
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "9becaaa9e915eb2f3fe47f2d9a0c1bbf99164cc1bdab4e6ec3064c4d3a160cf4"
   },
   {
     "character": "glm",
@@ -1122,7 +750,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "working"
+    "action": "working",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "831e136b055092b20ce15ac86aeae2627610c9d3ec1b2af8971020a0aded58f1"
+  },
+  {
+    "character": "glm",
+    "size": 32,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/glm/32/No.ani",
+    "hotspot": [
+      4,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "30e8ec290924fc52cff6da59877f4acb472a71c12b6e2cce34372af382113a2a"
+  },
+  {
+    "character": "glm",
+    "size": 48,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/glm/48/No.ani",
+    "hotspot": [
+      6,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "156143d12da40173bdb903fc78a8a958efb3b474b9dc3657ae8fb85407665ffa"
+  },
+  {
+    "character": "glm",
+    "size": 64,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/glm/64/No.ani",
+    "hotspot": [
+      8,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "7b34a758ecf67b0ac08d3e591ff3c315bbbb0fd3637c82530d07a4e876bbe085"
+  },
+  {
+    "character": "glm",
+    "size": 96,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/glm/96/No.ani",
+    "hotspot": [
+      13,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "8bb97f5030940b130a46b6a79a14206af5c1b437b597260b1aa5261f2e51124c"
+  },
+  {
+    "character": "glm",
+    "size": 128,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/glm/128/No.ani",
+    "hotspot": [
+      17,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "4013a99e037529e3a8ce3204be41a6bf81593d814e17d05ae1c081cb89322cc4"
   },
   {
     "character": "glm",
@@ -1137,7 +858,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "failed"
+    "action": "failed",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "18653d15c2b53e47ef73d9a13c83f50d5469e3dbf0597ef310a28898037b8311"
+  },
+  {
+    "character": "glm",
+    "size": 32,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/glm/32/SizeNS.ani",
+    "hotspot": [
+      2,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "a3a8d6129c7959b484eaaf6fc1ce1962c6c3b16243532a1aac7878c5e4bcfdf3"
+  },
+  {
+    "character": "glm",
+    "size": 48,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/glm/48/SizeNS.ani",
+    "hotspot": [
+      3,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "0f71c4b646f5f2cc430fd24fdeb506f08b547d0335501d9894cbc1415fcfd808"
+  },
+  {
+    "character": "glm",
+    "size": 64,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/glm/64/SizeNS.ani",
+    "hotspot": [
+      3,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "40733bb2c76b47554e9a250ec0c263d77b213cdbe20a9f1501d701dbda2d3ce4"
+  },
+  {
+    "character": "glm",
+    "size": 96,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/glm/96/SizeNS.ani",
+    "hotspot": [
+      5,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "94167df05dc1e51a09baeaaedf3b0b048af7675cb22d54f7a301c1815fc6bc40"
+  },
+  {
+    "character": "glm",
+    "size": 128,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/glm/128/SizeNS.ani",
+    "hotspot": [
+      7,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "86c79871c4ec35cbcd82df0630cbc04f9fdc2b4677ec0b48c890a612c15e8535"
   },
   {
     "character": "glm",
@@ -1152,7 +966,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "jumping"
+    "action": "jumping",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "aaf33e9861b4239655de97983dccedfd39f8d567d778652b2f05640531a208f3"
+  },
+  {
+    "character": "glm",
+    "size": 32,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/glm/32/SizeWE.ani",
+    "hotspot": [
+      4,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "1d5bd1f3e2de47d5403c151de758d478fe93aecf5555ff67c35e5214e8e0b9fc"
+  },
+  {
+    "character": "glm",
+    "size": 48,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/glm/48/SizeWE.ani",
+    "hotspot": [
+      6,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "f022fae181fd9915530210becee5c21fcc0a4f39abf678672229bf45e6aac498"
+  },
+  {
+    "character": "glm",
+    "size": 64,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/glm/64/SizeWE.ani",
+    "hotspot": [
+      8,
+      3
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "d8e55249a163c13e1733f373f95759c516f71fd176a19d110fe191fef8ed19d3"
+  },
+  {
+    "character": "glm",
+    "size": 96,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/glm/96/SizeWE.ani",
+    "hotspot": [
+      13,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "9c42c287ce1769af1febc97ab63ddfcfb42900995702c1ac21e872440d767fe7"
+  },
+  {
+    "character": "glm",
+    "size": 128,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/glm/128/SizeWE.ani",
+    "hotspot": [
+      17,
+      7
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "c9212bac801a0cfdf33e3f3d0f0109685795151c8c4824a080288cec337f8893"
   },
   {
     "character": "glm",
@@ -1167,7 +1074,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "walking-right"
+    "action": "walking-right",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "069fe3e896f703717febafc1d7f41d1d14d6699c5eb27e65b6e6bca826221d9d"
+  },
+  {
+    "character": "glm",
+    "size": 32,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/glm/32/SizeNWSE.ani",
+    "hotspot": [
+      4,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "6ab6e2975a8557873d5661f3e991dc710af33806e1e52479545b4127761e7379"
+  },
+  {
+    "character": "glm",
+    "size": 48,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/glm/48/SizeNWSE.ani",
+    "hotspot": [
+      6,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "a76f5a720b84bd649c5ae3502c0676722878acf4a390b5fcdc24c660920aa105"
+  },
+  {
+    "character": "glm",
+    "size": 64,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/glm/64/SizeNWSE.ani",
+    "hotspot": [
+      8,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "951d07e85dc63dec98c5fcf2444b293c68cb21234a7e701e0ecd90287680b513"
+  },
+  {
+    "character": "glm",
+    "size": 96,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/glm/96/SizeNWSE.ani",
+    "hotspot": [
+      13,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "2939da1608841e96e645c571e1b505944ff291a4906c0c077aadc24a1baaf17b"
+  },
+  {
+    "character": "glm",
+    "size": 128,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/glm/128/SizeNWSE.ani",
+    "hotspot": [
+      17,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "cbddd7e81c3b50ca1d08c6f1efcbbbe17222e043ee18f029b1d8c5dc6e183b97"
   },
   {
     "character": "glm",
@@ -1182,7 +1182,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "walking-right"
+    "action": "walking-right",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "5648bfbcdd7f7953e6a12bc0bdef0e74fbdce85d1aab706807199671dc83d540"
+  },
+  {
+    "character": "glm",
+    "size": 32,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/glm/32/SizeNESW.ani",
+    "hotspot": [
+      4,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "3165f843bacc67e491ecea3ae9612e9fad5c8bc769d9b009e7462aacbb810d64"
+  },
+  {
+    "character": "glm",
+    "size": 48,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/glm/48/SizeNESW.ani",
+    "hotspot": [
+      6,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "a44b5cf633ab673f381feef50a710c13108e94c65184741bfe6087395fafa7ba"
+  },
+  {
+    "character": "glm",
+    "size": 64,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/glm/64/SizeNESW.ani",
+    "hotspot": [
+      8,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "c3175c9b32cf92b77cd1edf193f18cad27384e616834d641123b7d5e17894865"
+  },
+  {
+    "character": "glm",
+    "size": 96,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/glm/96/SizeNESW.ani",
+    "hotspot": [
+      13,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "5fa6a410938ff57b1ae4334d34e9d521bf415a4c2de1fb94b525ea29a59d93b7"
+  },
+  {
+    "character": "glm",
+    "size": 128,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/glm/128/SizeNESW.ani",
+    "hotspot": [
+      17,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "4c15b189e3a9935c4f02e0d3504eb9c9895267275921e09fc22ecd330a9ca17a"
   },
   {
     "character": "glm",
@@ -1197,7 +1290,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "walking-left"
+    "action": "walking-left",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "c3033095b04d180fb0affb8ac47c53e1ac6c414c4105950a39284b39a7d0b6ca"
+  },
+  {
+    "character": "glm",
+    "size": 32,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/glm/32/SizeAll.ani",
+    "hotspot": [
+      4,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "3b95608e757114055226ac90b1fadee903c7d8c932559405337a2afdd8ca3cd2"
+  },
+  {
+    "character": "glm",
+    "size": 48,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/glm/48/SizeAll.ani",
+    "hotspot": [
+      6,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "599807e3748a2964952e5194c983ad3b7366f1470d6a03ab16fd1e76a910b440"
+  },
+  {
+    "character": "glm",
+    "size": 64,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/glm/64/SizeAll.ani",
+    "hotspot": [
+      8,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "73ff5f54fca73bb86ea3015950c1b59cc341a503caf8664d2f51a8ae16ce1c27"
+  },
+  {
+    "character": "glm",
+    "size": 96,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/glm/96/SizeAll.ani",
+    "hotspot": [
+      13,
+      12
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "e8deeb898acc91bb68a728e6a1569cf6412c30ef84df028ccf10c203d3e121c3"
+  },
+  {
+    "character": "glm",
+    "size": 128,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/glm/128/SizeAll.ani",
+    "hotspot": [
+      17,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "8e3a56c3189b0003c9f054e9b36633b70dd5e79f2936f3be544da5775c7237f3"
   },
   {
     "character": "glm",
@@ -1212,7 +1398,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "walking-right"
+    "action": "walking-right",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "0b939e92cceb21f820258727574be41410993481665c3804a346f95d432aa07b"
+  },
+  {
+    "character": "glm",
+    "size": 32,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/glm/32/UpArrow.ani",
+    "hotspot": [
+      4,
+      0
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "b5708062d3b2d9599d8ecdaec904f603453395dfa2f164b5506fa99357f9049b"
+  },
+  {
+    "character": "glm",
+    "size": 48,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/glm/48/UpArrow.ani",
+    "hotspot": [
+      5,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "8857799b369be745dd24bb83de726873a8d463b94113c05b30adc59fc1ec5ce2"
+  },
+  {
+    "character": "glm",
+    "size": 64,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/glm/64/UpArrow.ani",
+    "hotspot": [
+      7,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "e7b11fe28ed5b4942893b8a5ac51f19a167043dcc5a55de53bfb04f312df7dec"
+  },
+  {
+    "character": "glm",
+    "size": 96,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/glm/96/UpArrow.ani",
+    "hotspot": [
+      11,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "2fef3a2099d451d961971bc5309dd7eaacd8324c91b50060a20a71e6793db840"
+  },
+  {
+    "character": "glm",
+    "size": 128,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/glm/128/UpArrow.ani",
+    "hotspot": [
+      14,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "c4fb4c6c87ef129841abe70a9f3dddd56d670c303dce5c177b99e2166a78a79d"
   },
   {
     "character": "glm",
@@ -1227,7 +1506,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "jumping"
+    "action": "jumping",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "728f7037ed491f62c50940d35bed9c58d5360598fd18e879224402621cc8e890"
+  },
+  {
+    "character": "glm",
+    "size": 32,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/glm/32/Hand.ani",
+    "hotspot": [
+      3,
+      0
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "dbc0c1d91cc3a2bc373f899f1595b3dc942559fdd443111f0607a7ea14402a8b"
+  },
+  {
+    "character": "glm",
+    "size": 48,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/glm/48/Hand.ani",
+    "hotspot": [
+      4,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "f292c8c621443469b516e4a697fd04697e4f797feeb89e5b17b8f435fb67b7ed"
+  },
+  {
+    "character": "glm",
+    "size": 64,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/glm/64/Hand.ani",
+    "hotspot": [
+      5,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "cc47d5acddc7b27627c79bd6739836e3cbd7d7ae62bd2d767f8d876a4f63ab93"
+  },
+  {
+    "character": "glm",
+    "size": 96,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/glm/96/Hand.ani",
+    "hotspot": [
+      8,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "3624dfa9d37feb7c924f4efa4d0f17237cadf7c1784821d1f19a7701e22c5a22"
+  },
+  {
+    "character": "glm",
+    "size": 128,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/glm/128/Hand.ani",
+    "hotspot": [
+      10,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "d89df43967877cd4d99d645707d38582fcaa3d483ced135803ed2e7d02cf95ab"
   },
   {
     "character": "glm",
@@ -1242,7 +1614,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "waving"
+    "action": "waving",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "c5a125471d8a0383aa795a402e155e6deab80fcfd758374f69a77e9f9cc44306"
+  },
+  {
+    "character": "glm",
+    "size": 32,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/glm/32/Pin.ani",
+    "hotspot": [
+      3,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "b5857ff3b64843c160e35b1c3684e7199c9fa49c1a125d178ec27ba5505c8845"
+  },
+  {
+    "character": "glm",
+    "size": 48,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/glm/48/Pin.ani",
+    "hotspot": [
+      5,
+      12
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "869d652c35c47b3a7bbc088c4ad2485397e4508275f0e3dc9886b5acc0342aef"
+  },
+  {
+    "character": "glm",
+    "size": 64,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/glm/64/Pin.ani",
+    "hotspot": [
+      7,
+      16
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "5dcf455bdb742a1b1b8b7dcf0629b81628e0a34001dacab5c581530dac05381d"
+  },
+  {
+    "character": "glm",
+    "size": 96,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/glm/96/Pin.ani",
+    "hotspot": [
+      10,
+      24
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "00af289e1dc70ac07c1d8277c1c0f06217a1786e44cf8a28740e72f3a3b81f43"
+  },
+  {
+    "character": "glm",
+    "size": 128,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/glm/128/Pin.ani",
+    "hotspot": [
+      13,
+      32
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "82a9fa91fea1a361fa76d8adbb802c2d0e24e1f744735ff87dea9e514b80857e"
   },
   {
     "character": "glm",
@@ -1257,7 +1722,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "waiting"
+    "action": "waiting",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "14c85bf724914699bba07fb4e582596a113a6f8b0d86e9f09427a06cb0581e1c"
+  },
+  {
+    "character": "glm",
+    "size": 32,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/glm/32/Person.ani",
+    "hotspot": [
+      4,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "2ab861e37edb910b3fd05571eba77acd9141793f1997ff690b3328ca93c6ca6c"
+  },
+  {
+    "character": "glm",
+    "size": 48,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/glm/48/Person.ani",
+    "hotspot": [
+      6,
+      3
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "357cbc15693aa1abaea1ef431759dd2ffd3a97843675e3076ea3bb815b268050"
+  },
+  {
+    "character": "glm",
+    "size": 64,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/glm/64/Person.ani",
+    "hotspot": [
+      8,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "f6efe0446a2dc7377d17bd38014169651c8eb1e792ce01e400b1f4a4a7d6bd72"
+  },
+  {
+    "character": "glm",
+    "size": 96,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/glm/96/Person.ani",
+    "hotspot": [
+      12,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "a49482f6907fc6d9654514bb3ff6f0bd9eca12e8187d31a28f08a7014ec5e2ba"
+  },
+  {
+    "character": "glm",
+    "size": 128,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/glm/128/Person.ani",
+    "hotspot": [
+      15,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "bbe087f319cd55912c093a41bdecfe1c3e51d7efca334329f0fd08709353a0cc"
   },
   {
     "character": "glm",
@@ -1272,6 +1830,9 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "waving"
+    "action": "waving",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "b52190b920ba80328dc2ded9578352785d15eaf09068ce5322714771fd8b39d8"
   }
 ]
