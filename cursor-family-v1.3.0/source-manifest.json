@@ -1,0 +1,26 @@
+{
+  "version": "v1.3.0",
+  "packages": [
+    {
+      "kind": "non-avoidance",
+      "name": "glm-cursors-non-avoidance-v1.3.0.zip",
+      "sha256": "0b584d69773fad3c06122c37f0aae492dbf71a7f72241d794ce54d5c14993be2",
+      "coreSha256": "439155a4cd911b60b6d67880a386a105ee86687419cb2531346d20abbce4349b",
+      "profiles": 13,
+      "characters": [
+        "glm"
+      ]
+    },
+    {
+      "kind": "avoidance",
+      "name": "glm-cursors-avoidance-v1.3.0.zip",
+      "sha256": "329803a15e6103fdbfd32e06f502095c53093638574effdc5555c8a14e6b95f5",
+      "coreSha256": "95a24bd9db6be92a126df4babc201e73aba80808a5d0504d644ab95b119fff74",
+      "profiles": 13,
+      "characters": [
+        "glm"
+      ]
+    }
+  ],
+  "resources": "Complete editable PNG/ANI assets are included in the corresponding installation ZIP."
+}
