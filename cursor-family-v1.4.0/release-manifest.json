@@ -1,0 +1,30 @@
+{
+  "version": "v1.4.0",
+  "kind": "full-avoidance",
+  "runtimeSha256": "0e7a173da8c96ac7e1d21386966e90095b0083e2959c9eba4436406a5a20ff23",
+  "assets": [
+    {
+      "name": "glm-cursors-full-avoidance-v1.4.0.zip",
+      "bytes": 45009826,
+      "sha256": "df808c906eba9b05067b156ecff6cc0c4d7b30bea6e1840689fa2929c6d856eb"
+    },
+    {
+      "name": "glm-cursors-full-avoidance-source-v1.4.0.zip",
+      "bytes": 282456,
+      "sha256": "1dd090bc169b7c992ba9913ad5b869b2c7ecad7281bd751ee90463cbd8eedcbc"
+    },
+    {
+      "name": "VALIDATION.md",
+      "bytes": 2599,
+      "sha256": "95f05bd4982c9293728ee1447c63c4a783632827f79f985e549ab0632970173f"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 217,
+      "sha256": "f8c406b76f963bf43061b772b851d4e99b0d9bf2a9a57b61b217d94c2bb39891"
+    }
+  ],
+  "originalCmdInvocationPreserved": true,
+  "cmdWaitingMessageAdded": 13,
+  "originalMediaUnchanged": true
+}
